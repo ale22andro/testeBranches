@@ -1,7 +1,7 @@
-#Teste de branches.
+# Teste de branches.
 
-###Editando algo aqui
+### Editando algo aqui
 
-#Nova Feature
+# Nova Feature
 
 > Adicionando página inicial
